@@ -12,6 +12,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ydv-hrx/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ydv-hrx/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/ydv-hrx/Leetcode/tree/master/0283-move-zeroes) |
+| [0877-stone-game](https://github.com/ydv-hrx/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/ydv-hrx/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/ydv-hrx/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -56,4 +57,16 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ydv-hrx/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ydv-hrx/Leetcode/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ydv-hrx/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ydv-hrx/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
