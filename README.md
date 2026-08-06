@@ -28,6 +28,7 @@
 | [0141-linked-list-cycle](https://github.com/ydv-hrx/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ydv-hrx/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ydv-hrx/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/ydv-hrx/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ydv-hrx/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ydv-hrx/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/ydv-hrx/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -67,6 +68,7 @@
 | [0076-minimum-window-substring](https://github.com/ydv-hrx/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/ydv-hrx/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ydv-hrx/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/ydv-hrx/Leetcode/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/ydv-hrx/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ydv-hrx/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## String
@@ -78,6 +80,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ydv-hrx/Leetcode/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/ydv-hrx/Leetcode/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -98,6 +101,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ydv-hrx/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ydv-hrx/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/ydv-hrx/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ydv-hrx/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
