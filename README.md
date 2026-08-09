@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/ydv-hrx/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ydv-hrx/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ydv-hrx/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ydv-hrx/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ydv-hrx/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ydv-hrx/Leetcode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/ydv-hrx/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -29,6 +30,7 @@
 | [0016-3sum-closest](https://github.com/ydv-hrx/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ydv-hrx/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ydv-hrx/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ydv-hrx/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ydv-hrx/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/ydv-hrx/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ydv-hrx/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -90,6 +92,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ydv-hrx/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ydv-hrx/Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/ydv-hrx/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/ydv-hrx/Leetcode/tree/master/0877-stone-game) |
@@ -134,4 +137,12 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/ydv-hrx/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ydv-hrx/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ydv-hrx/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
