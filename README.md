@@ -21,6 +21,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ydv-hrx/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/ydv-hrx/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ydv-hrx/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0503-next-greater-element-ii](https://github.com/ydv-hrx/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/ydv-hrx/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ydv-hrx/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ydv-hrx/Leetcode/tree/master/0724-find-pivot-index) |
@@ -180,11 +181,13 @@
 | [0020-valid-parentheses](https://github.com/ydv-hrx/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ydv-hrx/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/ydv-hrx/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/ydv-hrx/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ydv-hrx/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ydv-hrx/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/ydv-hrx/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Recursion
 |  |
 | ------- |
