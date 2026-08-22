@@ -25,6 +25,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ydv-hrx/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ydv-hrx/Leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/ydv-hrx/Leetcode/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/ydv-hrx/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/ydv-hrx/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ydv-hrx/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ydv-hrx/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -55,6 +56,7 @@
 | [0344-reverse-string](https://github.com/ydv-hrx/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ydv-hrx/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ydv-hrx/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/ydv-hrx/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/ydv-hrx/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ydv-hrx/Leetcode/tree/master/0986-interval-list-intersections) |
 ## Sorting
@@ -65,6 +67,7 @@
 | [0056-merge-intervals](https://github.com/ydv-hrx/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ydv-hrx/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ydv-hrx/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0881-boats-to-save-people](https://github.com/ydv-hrx/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/ydv-hrx/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -202,4 +205,9 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ydv-hrx/Leetcode/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/ydv-hrx/Leetcode/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/ydv-hrx/Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
