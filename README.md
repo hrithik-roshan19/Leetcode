@@ -25,6 +25,7 @@
 | [0525-contiguous-array](https://github.com/ydv-hrx/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ydv-hrx/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ydv-hrx/Leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/ydv-hrx/Leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/ydv-hrx/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/ydv-hrx/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/ydv-hrx/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -182,12 +183,14 @@
 | [0042-trapping-rain-water](https://github.com/ydv-hrx/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/ydv-hrx/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/ydv-hrx/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ydv-hrx/Leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ydv-hrx/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ydv-hrx/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/ydv-hrx/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ydv-hrx/Leetcode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
