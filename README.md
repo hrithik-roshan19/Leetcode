@@ -57,6 +57,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ydv-hrx/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ydv-hrx/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ydv-hrx/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0763-partition-labels](https://github.com/ydv-hrx/Leetcode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/ydv-hrx/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/ydv-hrx/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/ydv-hrx/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -107,6 +108,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ydv-hrx/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/ydv-hrx/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ydv-hrx/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/ydv-hrx/Leetcode/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/ydv-hrx/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ydv-hrx/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
@@ -119,6 +121,7 @@
 | [0344-reverse-string](https://github.com/ydv-hrx/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ydv-hrx/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ydv-hrx/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0763-partition-labels](https://github.com/ydv-hrx/Leetcode/tree/master/0763-partition-labels) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ydv-hrx/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ydv-hrx/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Math
@@ -213,6 +216,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ydv-hrx/Leetcode/tree/master/0011-container-with-most-water) |
+| [0763-partition-labels](https://github.com/ydv-hrx/Leetcode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/ydv-hrx/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
