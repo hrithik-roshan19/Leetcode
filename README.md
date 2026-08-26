@@ -30,6 +30,7 @@
 | [0881-boats-to-save-people](https://github.com/ydv-hrx/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/ydv-hrx/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ydv-hrx/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0948-bag-of-tokens](https://github.com/ydv-hrx/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ydv-hrx/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/ydv-hrx/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ydv-hrx/Leetcode/tree/master/0986-interval-list-intersections) |
@@ -61,6 +62,7 @@
 | [0763-partition-labels](https://github.com/ydv-hrx/Leetcode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/ydv-hrx/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/ydv-hrx/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/ydv-hrx/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/ydv-hrx/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ydv-hrx/Leetcode/tree/master/0986-interval-list-intersections) |
 ## Sorting
@@ -72,6 +74,7 @@
 | [0075-sort-colors](https://github.com/ydv-hrx/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ydv-hrx/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/ydv-hrx/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/ydv-hrx/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/ydv-hrx/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -220,6 +223,7 @@
 | [0011-container-with-most-water](https://github.com/ydv-hrx/Leetcode/tree/master/0011-container-with-most-water) |
 | [0763-partition-labels](https://github.com/ydv-hrx/Leetcode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/ydv-hrx/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/ydv-hrx/Leetcode/tree/master/0948-bag-of-tokens) |
 ## Timsort
 |  |
 | ------- |
