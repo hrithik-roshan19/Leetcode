@@ -69,6 +69,7 @@
 | [0948-bag-of-tokens](https://github.com/ydv-hrx/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/ydv-hrx/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ydv-hrx/Leetcode/tree/master/0986-interval-list-intersections) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ydv-hrx/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [0763-partition-labels](https://github.com/ydv-hrx/Leetcode/tree/master/0763-partition-labels) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ydv-hrx/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ydv-hrx/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ydv-hrx/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 | [0763-partition-labels](https://github.com/ydv-hrx/Leetcode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/ydv-hrx/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ydv-hrx/Leetcode/tree/master/0948-bag-of-tokens) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ydv-hrx/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Timsort
 |  |
 | ------- |
