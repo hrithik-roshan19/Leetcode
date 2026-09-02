@@ -129,6 +129,7 @@
 | [0020-valid-parentheses](https://github.com/ydv-hrx/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ydv-hrx/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ydv-hrx/Leetcode/tree/master/0125-valid-palindrome) |
+| [0214-shortest-palindrome](https://github.com/ydv-hrx/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/ydv-hrx/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ydv-hrx/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ydv-hrx/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -238,4 +239,28 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ydv-hrx/Leetcode/tree/master/0881-boats-to-save-people) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ydv-hrx/Leetcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ydv-hrx/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ydv-hrx/Leetcode/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ydv-hrx/Leetcode/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ydv-hrx/Leetcode/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ydv-hrx/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
