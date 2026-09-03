@@ -18,6 +18,7 @@
 | [0075-sort-colors](https://github.com/ydv-hrx/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ydv-hrx/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ydv-hrx/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/ydv-hrx/Leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/ydv-hrx/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ydv-hrx/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ydv-hrx/Leetcode/tree/master/0189-rotate-array) |
@@ -231,6 +232,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ydv-hrx/Leetcode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/ydv-hrx/Leetcode/tree/master/0135-candy) |
 | [0763-partition-labels](https://github.com/ydv-hrx/Leetcode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/ydv-hrx/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ydv-hrx/Leetcode/tree/master/0948-bag-of-tokens) |
