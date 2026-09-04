@@ -117,6 +117,7 @@
 | [0141-linked-list-cycle](https://github.com/ydv-hrx/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ydv-hrx/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ydv-hrx/Leetcode/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/ydv-hrx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ydv-hrx/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/ydv-hrx/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ydv-hrx/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -133,6 +134,7 @@
 | [0214-shortest-palindrome](https://github.com/ydv-hrx/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/ydv-hrx/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ydv-hrx/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ydv-hrx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ydv-hrx/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0763-partition-labels](https://github.com/ydv-hrx/Leetcode/tree/master/0763-partition-labels) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ydv-hrx/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -191,6 +193,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ydv-hrx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ydv-hrx/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -265,4 +268,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ydv-hrx/Leetcode/tree/master/0214-shortest-palindrome) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ydv-hrx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
