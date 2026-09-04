@@ -117,6 +117,7 @@
 | [0141-linked-list-cycle](https://github.com/ydv-hrx/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ydv-hrx/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ydv-hrx/Leetcode/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/ydv-hrx/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ydv-hrx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ydv-hrx/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/ydv-hrx/Leetcode/tree/master/0525-contiguous-array) |
@@ -134,6 +135,7 @@
 | [0214-shortest-palindrome](https://github.com/ydv-hrx/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/ydv-hrx/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ydv-hrx/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/ydv-hrx/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ydv-hrx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ydv-hrx/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0763-partition-labels](https://github.com/ydv-hrx/Leetcode/tree/master/0763-partition-labels) |
@@ -271,5 +273,6 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ydv-hrx/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ydv-hrx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
