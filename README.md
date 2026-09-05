@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ydv-hrx/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ydv-hrx/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ydv-hrx/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ydv-hrx/Leetcode/tree/master/0016-3sum-closest) |
@@ -86,6 +87,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ydv-hrx/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ydv-hrx/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ydv-hrx/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ydv-hrx/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -190,6 +192,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ydv-hrx/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ydv-hrx/Leetcode/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ydv-hrx/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
