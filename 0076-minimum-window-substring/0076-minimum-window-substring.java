@@ -36,7 +36,7 @@ class Solution {
 
                 if (high - low + 1 < minLen) {
                     minLen = high - low + 1;
-                    start = low;
+                    start = low; 
                 }
 
                 char left = s.charAt(low);
