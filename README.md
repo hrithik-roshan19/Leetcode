@@ -151,6 +151,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ydv-hrx/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/ydv-hrx/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ydv-hrx/Leetcode/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/ydv-hrx/Leetcode/tree/master/0877-stone-game) |
